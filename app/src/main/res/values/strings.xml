@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FileMon</string>
+
+    <string name="hello_world">FileMon 0.1 Build20160118@Mr.Q.Young</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="apps_filter">
+        <item>/sdcard/Alarms</item>
+        <item>/sdcard/Android</item>
+        <item>/sdcard/DICM</item>
+        <item>/sdcard/TWRP</item>
+        <item>/sdcard/WhatsApp</item>
+        <item>/sdcard/tencent</item>
+    </string-array>
+</resources>
